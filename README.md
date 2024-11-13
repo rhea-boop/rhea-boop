@@ -1,9 +1,9 @@
 ## welcome to the bog
-this is my personal repository, created for future use but as of writing mostly for copilot authorization 
+this is my personal profile. hello! it is empty right now because i am reluctant to fork the repository i am actually working on just yet
 ## about me
-i am a student in the informatics and computer engineering department of university of west attica 
+i am an undergraduate student in the informatics and computer engineering department of university of west attica 
 ## interests/goals
-currently very interested in expanding my knowledge of relevant to present day programming languages, database creation and handling, and networking 
+currently very interested in expanding my knowledge of relevant to present day programming languages, database creation and handling, and networking
 
 <!--
 **rhea-boop/rhea-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
